@@ -4,8 +4,8 @@
 	<groupId>com.sqa.as</groupId>
 	<artifactId>jogged-hours</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Jogged Hours Application</name>
-	<description>Jogged Hours Application Project</description>
+	<name>Adactin-Hotel-App</name>
+	<description>Adactin-Hotel-App Project</description>
 
 <dependencies>
   <dependency>

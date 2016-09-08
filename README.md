@@ -1,4 +1,4 @@
-#Basic Project
+#Adactin-Hotel-App
 
 *Simple Project
 
@@ -7,6 +7,6 @@
 * Java Application
 * Junit
 
-Simple Java Application. 
+Adactin-Hotel-Application. 
 
-[Anatoliy Starinskiy](http://ebay.com)
+[Anatoliy Starinskiy](https://github.com/Talyan5/Adactin-Hotel-App)
